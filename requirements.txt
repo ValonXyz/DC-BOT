@@ -3,3 +3,4 @@ numpy
 scikit-learn
 xgboost
 tls-client
+typing-extensions
