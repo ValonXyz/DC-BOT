@@ -61,7 +61,7 @@ async def loot_friendly_fire(safe_amount, token):
         return "Contact @foragent_ for help"
 
 async def check_channel(interaction):
-    if interaction.channel.id != 1234573327675166781:
+    if interaction.channel.id != 1492892833105973421:
         await interaction.response.send_message(embed=discord.Embed(title='🚫 Error', color=0xff0000, description="Please use commands in <#1234573327675166781>"))
         return False
     return True
