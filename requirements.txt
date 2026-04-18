@@ -1,6 +1,6 @@
 discord.py
 numpy
 scikit-learn
-xgboost
+xgboost==1.7.6
 tls-client
-typing-extensions
+typing-extensions>=4.0.0
