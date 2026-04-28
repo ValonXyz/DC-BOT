@@ -1,7 +1,4 @@
 discord.py
-numpy
-scikit-learn
-xgboost==1.7.6
-tls-client
-typing-extensions>=4.0.0
 flask
+tls-client
+typing-extensions
